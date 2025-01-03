@@ -1,41 +1,67 @@
-# Website
+# SwiftPay Docs
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+![SwiftPay Banner](static/img/homepage.jpg)
 
-### Installation
+Welcome to the SwiftPay Documentation! SwiftPay is a comprehensive **fintech platform and payment gateway** designed to provide seamless and secure payment processing, user management, and integration with various financial services. It caters to businesses of all sizes, enabling them to efficiently manage transactions and streamline operations.
 
-```
-$ yarn
-```
+---
 
-### Local Development
+## 🚀 Features
 
-```
-$ yarn start
-```
+- **Seamless Payment Processing**  
+  Effortlessly process payments with high security and reliability.  
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+- **User Management**  
+  Manage user accounts, roles, and permissions with ease.  
 
-### Build
+- **Financial Integrations**  
+  Integrate with banks, payment gateways, and other financial services.  
 
-```
-$ yarn build
-```
+- **Scalable for All Businesses**  
+  Suitable for startups, SMEs, and large enterprises.  
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+- **Developer-Friendly**  
+  Easy-to-use APIs and tools for quick integration into your platform.  
 
-### Deployment
+---
+## 📖 Local Development
 
-Using SSH:
+Follow these steps to set up the project locally:
 
-```
-$ USE_SSH=true yarn deploy
-```
+1. **Install Dependencies**  
+   Run the following command to install the necessary packages:
+   ```bash
+   yarn
+   ```
+2. **Start the Development Server**  
+   Start the local server for development:
+   ```bash
+   yarn start
+   ```
+3. **Build for Production**  
+   Create a production-ready build:
+   ```bash
+   yarn build
+   ```
+4. **Clean the Project**  
+   Remove old build files and clean the workspace:
+   ```bash
+   yarn clean
+   ```
 
-Not using SSH:
+## 💡 Additional Notes
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+- Comprehensive documentation is available for developers to integrate and customize SwiftPay to their needs.  
+- For detailed guides and use cases, check the `docs` folder or visit our [official website](https://docs.raisa.com.np).
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+---
+
+## 📫 Support
+
+If you encounter any issues or have questions, feel free to contact us at:  
+**Email:** support@pay.raisa.com.np  
+**Website:** [pay.raisa.com.np](https://pay.raisa.com.np)
+
+---
+
+Thank you for choosing SwiftPay! 🙌
