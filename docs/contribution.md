@@ -21,7 +21,7 @@ Thank you for your interest in contributing to SwiftPay! While this is primarily
 1. **Fork the Repository**
    ```bash
    # Clone your fork
-   git clone https://github.com/r4i3a/swiftpay-docs
+   git clone https://github.com/nb3n/swiftpay-docs
    cd swiftpay-docs
 
    # Add upstream remote

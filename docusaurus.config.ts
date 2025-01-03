@@ -15,7 +15,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'r4i3a', // Usually your GitHub org/user name.
+  organizationName: 'nb3n', // Usually your GitHub org/user name.
   projectName: 'swiftpay-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -37,7 +37,7 @@ const config: Config = {
           routeBasePath: '/', 
           sidebarPath: './sidebars.ts',
           breadcrumbs: true,
-          editUrl: 'https://github.com/r4i3a/swiftpay-docs/tree/master/',
+          editUrl: 'https://github.com/nb3n/swiftpay-docs/tree/master/',
           showLastUpdateTime: true,
           sidebarCollapsible: true,
         },
