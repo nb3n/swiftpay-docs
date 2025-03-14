@@ -50,7 +50,7 @@ Follow these steps to set up the project locally:
 ## 💡 Additional Notes
 
 - Comprehensive documentation is available for developers to integrate and customize SwiftPay to their needs.  
-- For detailed guides and use cases, check the `docs` folder or visit our [official website](https://docs.raisa.com.np).
+- For detailed guides and use cases, check the `docs` folder or visit our [official website](https://docs.swiftpay.raisa.com.np).
 
 ## 📫 Support
 
