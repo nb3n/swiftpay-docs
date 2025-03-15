@@ -282,7 +282,7 @@ $response = Http::withHeaders($headers)
 ```json
 {
   "tnx": "SWIFTPAY-8AC2389A-ACF2-47A9-8D4B-CEA68E931DD8-EWP",
-  "payment_url": "https://webpayment.pay.raisa.com.np/?tnx=SWIFTPAY-8AC2389A-ACF2-47A9-8D4B-CEA68E931DD8-EWP",
+  "payment_url": "https://webpayment.raisa.com.np/?tnx=SWIFTPAY-8AC2389A-ACF2-47A9-8D4B-CEA68E931DD8-EWP",
   "expires_at": "2024-11-18T15:30:00Z",
   "expires_in": 1800,
   "environment": "production"

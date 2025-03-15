@@ -20,7 +20,7 @@ Before you begin, ensure you have:
 - User visits the merchant's website to make some purchase
 - A unique `transasction_id` is generated at merchant's system
 - Payment request is made to SwiftPay providing the `transasction_id` as `transaction`, `amount` and `callback`
-- User is redirected to the epayment portal (eg. https://webpayment.pay.raisa.com.np)
+- User is redirected to the epayment portal (eg. https://webpayment.raisa.com.np)
 - After payment is made by the user, a successful callback is made to the `callback` URL
 - The merchant website can optionally confirm the payment received
 - The merchant website then proceeds other steps after payment confirmation
@@ -92,7 +92,7 @@ A successful request returns a payment URL and transaction details:
 ```json
 {
     "tnx": "SWIFTPAY-A64666C5-1053-416F-9281-74042F58A060-EWP",
-    "payment_url": "https://webpayment.pay.raisa.com.np?tnx=SWIFTPAY-A64666C5-1053-416F-9281-74042F58A060-EWP",
+    "payment_url": "https://webpayment.raisa.com.np?tnx=SWIFTPAY-A64666C5-1053-416F-9281-74042F58A060-EWP",
     "expires_at": "2024-11-20T08:03:28.000000Z",
     "expires_in": 1800,
     "environment": "production"
